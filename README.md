@@ -1,4 +1,4 @@
-# entypo-js
+# starlane-social-js
 
 An automatically generated export of social icons where each icon is exported as its SVG path string.
 
