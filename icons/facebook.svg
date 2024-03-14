@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="github.svg">
-    </g>
-    <g id="facebook.svg">
-    </g>
-    <g transform="matrix(24.6,0,0,24.6,-45.2001,-45.1998)">
-        <path d="M12,2.04C6.5,2.04 2,6.53 2,12.06C2,17.06 5.66,21.21 10.44,21.96L10.44,14.96L7.9,14.96L7.9,12.06L10.44,12.06L10.44,9.85C10.44,7.34 11.93,5.96 14.22,5.96C15.31,5.96 16.45,6.15 16.45,6.15L16.45,8.62L15.19,8.62C13.95,8.62 13.56,9.39 13.56,10.18L13.56,12.06L16.34,12.06L15.89,14.96L13.56,14.96L13.56,21.96C18.408,21.194 22.011,16.968 22,12.06C22,6.53 17.5,2.04 12,2.04Z" style="fill:white;fill-rule:nonzero;"/>
-    </g>
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M12,0C5.373,0 -0.048,5.41 -0.048,12.072C-0.048,18.096 4.361,23.096 10.12,24L10.12,15.566L7.06,15.566L7.06,12.072L10.12,12.072L10.12,9.41C10.12,6.386 11.916,4.723 14.675,4.723C15.988,4.723 17.361,4.952 17.361,4.952L17.361,7.928L15.843,7.928C14.349,7.928 13.88,8.855 13.88,9.807L13.88,12.072L17.229,12.072L16.687,15.566L13.88,15.566L13.88,24C19.72,23.078 24.061,17.985 24.048,12.072C24.048,5.41 18.626,0 12,0Z" style="fill:white;fill-rule:nonzero;"/>
 </svg>
