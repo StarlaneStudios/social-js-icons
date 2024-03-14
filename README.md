@@ -10,3 +10,7 @@ console.log(sjsFolderImages);
 ```
 
 The name of each icon is prefixed with `sjs` followed by a camel case version of the icon name. You can find a complete list of icons in [ICONS.md](ICONS.md).
+
+## Adding Icons
+
+Think of an icon that is not in this package? Create an issue and I will add it!
