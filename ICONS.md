@@ -18,4 +18,4 @@
 | `ssTwitch` | <img src="icons\twitch.svg">
 | `ssWhatsapp` | <img src="icons\whatsapp.svg">
 | `ssYoutube` | <img src="icons\youtube.svg">
-| `ssYoutubenew` | <img src="icons\youtubeNew.svg">
+| `ssYt32` | <img src="icons\yt32.svg">
