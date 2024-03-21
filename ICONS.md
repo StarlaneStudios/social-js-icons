@@ -16,5 +16,7 @@
 | `sjsStoryfire` | <img src="icons\storyfire.svg">
 | `sjsTiktok` | <img src="icons\tiktok.svg">
 | `sjsTwitch` | <img src="icons\twitch.svg">
+| `sjsTwitter` | <img src="icons\twitter.svg">
 | `sjsWhatsapp` | <img src="icons\whatsapp.svg">
+| `sjsX` | <img src="icons\x.svg">
 | `sjsYoutube` | <img src="icons\youtube.svg">
