@@ -1,5 +1,6 @@
 | Name | Preview |
 | --- | --- |
+| `sjsApplemusic` | <img src="icons\appleMusic.svg">
 | `sjsCashapp` | <img src="icons\cashapp.svg">
 | `sjsDiscord` | <img src="icons\discord.svg">
 | `sjsFacebook` | <img src="icons\facebook.svg">
@@ -9,6 +10,7 @@
 | `sjsKick` | <img src="icons\kick.svg">
 | `sjsLinkedin` | <img src="icons\linkedin.svg">
 | `sjsReddit` | <img src="icons\reddit.svg">
+| `sjsRumble` | <img src="icons\rumble.svg">
 | `sjsSlack` | <img src="icons\slack.svg">
 | `sjsSnapchat` | <img src="icons\snapchat.svg">
 | `sjsSpotify` | <img src="icons\spotify.svg">
@@ -20,3 +22,4 @@
 | `sjsWhatsapp` | <img src="icons\whatsapp.svg">
 | `sjsX` | <img src="icons\x.svg">
 | `sjsYoutube` | <img src="icons\youtube.svg">
+| `sjsYoutubemusic` | <img src="icons\youtubeMusic.svg">
