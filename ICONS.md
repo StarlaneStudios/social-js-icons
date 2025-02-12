@@ -1,6 +1,7 @@
 | Name | Preview |
 | --- | --- |
 | `sjsApplemusic` | <img src="icons\appleMusic.svg">
+| `sjsBluesky` | <img src="icons\bluesky.svg">
 | `sjsCashapp` | <img src="icons\cashapp.svg">
 | `sjsDiscord` | <img src="icons\discord.svg">
 | `sjsFacebook` | <img src="icons\facebook.svg">
@@ -9,13 +10,14 @@
 | `sjsInstagram` | <img src="icons\instagram.svg">
 | `sjsKick` | <img src="icons\kick.svg">
 | `sjsLinkedin` | <img src="icons\linkedin.svg">
+| `sjsPatreon` | <img src="icons\patreon.svg">
+| `sjsPaypal` | <img src="icons\paypal.svg">
 | `sjsReddit` | <img src="icons\reddit.svg">
 | `sjsRumble` | <img src="icons\rumble.svg">
 | `sjsSlack` | <img src="icons\slack.svg">
 | `sjsSnapchat` | <img src="icons\snapchat.svg">
 | `sjsSpotify` | <img src="icons\spotify.svg">
 | `sjsSteam` | <img src="icons\steam.svg">
-| `sjsStoryfire` | <img src="icons\storyfire.svg">
 | `sjsTiktok` | <img src="icons\tiktok.svg">
 | `sjsTwitch` | <img src="icons\twitch.svg">
 | `sjsTwitter` | <img src="icons\twitter.svg">
